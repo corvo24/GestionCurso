@@ -10,6 +10,7 @@ import gestionMenus.Menu;
 /**
  *
  * @author Profesor
+ * @version 1.0
  */
 public class Modulo {
     private String nombre;
